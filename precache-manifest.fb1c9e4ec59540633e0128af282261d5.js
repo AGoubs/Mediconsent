@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "32af11957cdacb28347edf3ddf3fec20",
+    "revision": "bf4a9c09f18834862a18155b4537d58e",
     "url": "/mediconsent/index.html"
   },
   {
-    "revision": "7cf747ec49466188df48",
+    "revision": "261ba3234396ec000772",
     "url": "/mediconsent/static/css/0.7392a93a.chunk.css"
   },
   {
@@ -20,12 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mediconsent/static/css/5.f1af9b5f.chunk.css"
   },
   {
-    "revision": "14f80cb9d8715d253313",
+    "revision": "8d99907e67baf5af78e3",
     "url": "/mediconsent/static/css/6.3ea928d3.chunk.css"
   },
   {
-    "revision": "7cf747ec49466188df48",
-    "url": "/mediconsent/static/js/0.3dff35bc.chunk.js"
+    "revision": "261ba3234396ec000772",
+    "url": "/mediconsent/static/js/0.ae8de21b.chunk.js"
   },
   {
     "revision": "9cab596e9f86b849718f",
@@ -84,8 +84,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mediconsent/static/js/5.e27461fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "14f80cb9d8715d253313",
-    "url": "/mediconsent/static/js/6.65130f83.chunk.js"
+    "revision": "8d99907e67baf5af78e3",
+    "url": "/mediconsent/static/js/6.52439c6a.chunk.js"
   },
   {
     "revision": "84eff390c1349cba09bf",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mediconsent/static/js/main.715b3d90.chunk.js"
   },
   {
-    "revision": "c0ed7ac07aaffc83b1c4",
-    "url": "/mediconsent/static/js/runtime-main.e9901eba.js"
+    "revision": "903b91650b53ab71f038",
+    "url": "/mediconsent/static/js/runtime-main.394cb8e0.js"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",

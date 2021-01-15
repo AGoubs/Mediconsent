@@ -1,12 +1,12 @@
 {
   "files": {
     "static/css/0.7392a93a.chunk.css": "/mediconsent/static/css/0.7392a93a.chunk.css",
-    "static/js/0.3dff35bc.chunk.js": "/mediconsent/static/js/0.3dff35bc.chunk.js",
-    "static/js/0.3dff35bc.chunk.js.map": "/mediconsent/static/js/0.3dff35bc.chunk.js.map",
+    "static/js/0.ae8de21b.chunk.js": "/mediconsent/static/js/0.ae8de21b.chunk.js",
+    "static/js/0.ae8de21b.chunk.js.map": "/mediconsent/static/js/0.ae8de21b.chunk.js.map",
     "main.js": "/mediconsent/static/js/main.715b3d90.chunk.js",
     "main.js.map": "/mediconsent/static/js/main.715b3d90.chunk.js.map",
-    "runtime-main.js": "/mediconsent/static/js/runtime-main.e9901eba.js",
-    "runtime-main.js.map": "/mediconsent/static/js/runtime-main.e9901eba.js.map",
+    "runtime-main.js": "/mediconsent/static/js/runtime-main.394cb8e0.js",
+    "runtime-main.js.map": "/mediconsent/static/js/runtime-main.394cb8e0.js.map",
     "static/css/3.94247ac8.chunk.css": "/mediconsent/static/css/3.94247ac8.chunk.css",
     "static/js/3.4222c526.chunk.js": "/mediconsent/static/js/3.4222c526.chunk.js",
     "static/js/3.4222c526.chunk.js.map": "/mediconsent/static/js/3.4222c526.chunk.js.map",
@@ -17,8 +17,8 @@
     "static/js/5.e27461fa.chunk.js": "/mediconsent/static/js/5.e27461fa.chunk.js",
     "static/js/5.e27461fa.chunk.js.map": "/mediconsent/static/js/5.e27461fa.chunk.js.map",
     "static/css/6.3ea928d3.chunk.css": "/mediconsent/static/css/6.3ea928d3.chunk.css",
-    "static/js/6.65130f83.chunk.js": "/mediconsent/static/js/6.65130f83.chunk.js",
-    "static/js/6.65130f83.chunk.js.map": "/mediconsent/static/js/6.65130f83.chunk.js.map",
+    "static/js/6.52439c6a.chunk.js": "/mediconsent/static/js/6.52439c6a.chunk.js",
+    "static/js/6.52439c6a.chunk.js.map": "/mediconsent/static/js/6.52439c6a.chunk.js.map",
     "static/js/7.c5fe4970.chunk.js": "/mediconsent/static/js/7.c5fe4970.chunk.js",
     "static/js/7.c5fe4970.chunk.js.map": "/mediconsent/static/js/7.c5fe4970.chunk.js.map",
     "static/js/8.16b1c738.chunk.js": "/mediconsent/static/js/8.16b1c738.chunk.js",
@@ -42,7 +42,7 @@
     "static/js/17.3b7482d7.chunk.js": "/mediconsent/static/js/17.3b7482d7.chunk.js",
     "static/js/17.3b7482d7.chunk.js.map": "/mediconsent/static/js/17.3b7482d7.chunk.js.map",
     "index.html": "/mediconsent/index.html",
-    "precache-manifest.aae53910946809b8969bb69035205e83.js": "/mediconsent/precache-manifest.aae53910946809b8969bb69035205e83.js",
+    "precache-manifest.fb1c9e4ec59540633e0128af282261d5.js": "/mediconsent/precache-manifest.fb1c9e4ec59540633e0128af282261d5.js",
     "service-worker.js": "/mediconsent/service-worker.js",
     "static/css/0.7392a93a.chunk.css.map": "/mediconsent/static/css/0.7392a93a.chunk.css.map",
     "static/css/3.94247ac8.chunk.css.map": "/mediconsent/static/css/3.94247ac8.chunk.css.map",
@@ -55,7 +55,7 @@
     "static/media/font-awesome.scss": "/mediconsent/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9901eba.js",
+    "static/js/runtime-main.394cb8e0.js",
     "static/css/5.f1af9b5f.chunk.css",
     "static/js/5.e27461fa.chunk.js",
     "static/js/main.715b3d90.chunk.js"
