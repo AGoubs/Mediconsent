@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e598c9367b78970369a86dd73c6cb8e",
+    "revision": "0af980bfa82ed9b6074a110eaf097e87",
     "url": "/mediconsent/index.html"
   },
   {
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mediconsent/static/js/9.eec529d8.chunk.js"
   },
   {
-    "revision": "3e5f975e5c1b209fd634",
-    "url": "/mediconsent/static/js/main.a2d33571.chunk.js"
+    "revision": "57628fc75f2e7fb36d0e",
+    "url": "/mediconsent/static/js/main.6b1bd21f.chunk.js"
   },
   {
     "revision": "95a7069cf1abd63af065",
